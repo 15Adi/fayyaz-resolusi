@@ -2,3 +2,5 @@ RENCANA APLIKASI
 - SIMONAS mobile
 - SIAnggar mobile
 - Dashboard YAPI
+- Simaya mobile
+- Manajemen Proyek
