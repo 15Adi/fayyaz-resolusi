@@ -1,5 +1,7 @@
 RENCANA APLIKASI
 - SIMONAS mobile
+   ^create mockup mobile
+   ^create frontend
 - SIAnggar mobile
 - Dashboard YAPI
 - Simaya mobile
