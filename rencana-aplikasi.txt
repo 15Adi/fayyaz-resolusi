@@ -3,6 +3,8 @@ RENCANA APLIKASI
    ^create mockup mobile
    ^create frontend
 - SIAnggar mobile
+  ^create mockup
+  ^fix frontend
 - Dashboard YAPI
 - Simaya mobile
 - Manajemen Proyek
