@@ -1,7 +1,7 @@
 FAYYAZ AK RESOLUSI
-- Saya konsisten mengerjakan project dengan semangat
-- Saya konsisten dalam belajar programming yang baru
-- Saya konsisten dalam menguasai framework Laravel
-- Saya konsisten dalam menguasai framework Flutter
-- Saya konsisten dalam menguasai framework Odoo
-- Saya konsisten dalam menguasai framewok Spring Boot
+1. Saya konsisten mengerjakan project dengan semangat
+2. Saya konsisten dalam belajar programming yang baru
+3. Saya konsisten dalam menguasai framework Laravel
+4. Saya konsisten dalam menguasai framework Flutter
+5. Saya konsisten dalam menguasai framework Odoo
+6. Saya konsisten dalam menguasai framewok Spring Boot
